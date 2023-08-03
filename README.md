@@ -1,4 +1,4 @@
-#Neural Network / Genetic Algorithm Library Project
+# Neural Network / Genetic Algorithm Library Project
 
 This was a practice project and way for me to get familiar with Rust while practicing upon some machine learning principles. 
 
